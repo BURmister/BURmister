@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-```sh
-hello world
+```
+const hello = () => {
+  console.log('hello world');
+}
 ```
